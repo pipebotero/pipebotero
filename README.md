@@ -3,6 +3,10 @@
   <b>Felipe Botero</b>
 </h1>
 
+<p align="center">
+  Full stack Developer
+</p>
+
 <br>
 
 <p>
